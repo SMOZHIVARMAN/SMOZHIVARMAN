@@ -52,7 +52,7 @@ Passion for continuous learning and innovation in emerging technologies.
 
 ## 🚀 Projects  
 
-- 🔧 **TaskManagement** – *(details coming soon)*  
+- 🔧 **TaskManagement** – *Team-Management is a feature-rich, dark-themed web app designed to help individuals and teams manage tasks, projects, calendar events, real-time chats, and more — all in one place.*  
 - 🕵️‍♂️ **Packet Sniffer** – *(details coming soon)*  
 - 🌦️ **Weather Data Analyzer** – *(details coming soon)*  
 - 🔍 **Vulnerability Scanner** – *(details coming soon)*  
