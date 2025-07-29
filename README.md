@@ -52,10 +52,13 @@ Passion for continuous learning and innovation in emerging technologies.
 
 ## 🚀 Projects  
 
-- 🔧 **TaskManagement** – *Team-Management is a feature-rich, dark-themed web app designed to help individuals and teams manage tasks, projects, calendar events, real-time chats, and more — all in one place.*  
+- 🔧 **TaskManagement** – *Team-Management is a feature-rich, dark-themed web app designed to help individuals and teams manage tasks, projects, calendar events, real-time chats, and more — all in one place.*
+   
 - 🕵️‍♂️ **Packet Sniffer** – *A simple yet powerful network packet sniffer built with Python and Scapy for real-time monitoring of IP packets, protocol types, and payload data. 
-This tool is useful for cybersecurity learning, traffic analysis, and ethical hacking practices.*  
-- 🌦️ **Weather Data Analyzer** – *The objective of this project is to develop a Weather Data Analyzer that processes historical weather data, identifies patterns, and provides graphical insights through visualizations. This project will help users understand temperature variations, humidity levels, and rainfall patterns while also incorporating predictive modelling to forecast future temperature trends using Machine Learning (Linear Regression).*  
+This tool is useful for cybersecurity learning, traffic analysis, and ethical hacking practices.*
+
+- 🌦️ **Weather Data Analyzer** – *The objective of this project is to develop a Weather Data Analyzer that processes historical weather data, identifies patterns, and provides graphical insights through visualizations. This project will help users understand temperature variations, humidity levels, and rainfall patterns while also incorporating predictive modelling to forecast future temperature trends using Machine Learning (Linear Regression).*
+  
 - 🔍 **Vulnerability Scanner** – *Running a Nikto scan against a simple web server and summarizing the identified issues..... By using (Kali Linux)*  
 
 ---
