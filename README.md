@@ -78,10 +78,6 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MozhivarmanS&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🔥 LeetCode Streak  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/MOZHIVARMAN_S?theme=dark&font=baloo&ext=activity" alt="LeetCode Streak" />
-</p>
 
 ---
 
