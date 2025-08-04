@@ -87,13 +87,13 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
   <a href="https://www.linkedin.com/in/mozhivarmanofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/MOZHIVARMAN_S/" target="_blank">
+  <a href="https://leetcode.com/u/MOZHIVARMAN-OFFICIAL/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/iam_ur_skm_69/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:mozhivarmanofficial@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
