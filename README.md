@@ -65,14 +65,9 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
 
 ---
 
-## 📊 GitHub & Coding Stats  
+## 📊  Coding Stats  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SMOZHIVARMAN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOZHIVARMAN&theme=tokyonight" alt="GitHub Streak" />
 
   <!-- LeetCode Stats -->
   <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN-OFFICIAL&theme=dark&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
