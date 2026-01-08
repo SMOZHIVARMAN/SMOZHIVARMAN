@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOZHIVARMAN S</h1>
-<h3 align="center">CYBERSECURITY ENTHUSIAST | PYTHON | JAVA | CLOUD ENGINEER | FULL STACK</h3>
+<h3 align="center">CYBERSECURITY ENTHUSIAST | PYTHON | JAVA DEVELOPER | FULL STACK DEVELOPMENT</h3>
 
 ---
 
@@ -32,15 +32,6 @@ Passion for continuous learning and innovation in emerging technologies.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### **Cloud Computing**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **Data Science**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,9 +65,16 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
 ## 📊 GitHub & Coding Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MozhivarmanS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MozhivarmanS&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SMOZHIVARMAN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOZHIVARMAN&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN_S&theme=tokyonight&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
 </p>
+
 
 
 ---
