@@ -96,4 +96,4 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
 
 ---
 
-⭐️ From [**MOZHIVARMAN S**](https://github.com/MozhivarmanS)
+⭐️ From [**MOZHIVARMAN S**](https://github.com/SMOZHIVARMAN)
