@@ -75,7 +75,7 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOZHIVARMAN&theme=tokyonight" alt="GitHub Streak" />
 
   <!-- LeetCode Stats -->
-  <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN_S&theme=tokyonight&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN-OFFICIAL&theme=dark&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
 </p>
 
 
