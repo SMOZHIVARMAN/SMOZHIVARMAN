@@ -2,7 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          username: SMOZHIVARMAN
-          output: assets/github-stats.svg
-          theme: github_dark
-          show_icons: true
+          node-version: "20"
+
+      - name: Install github-readme-stats
+        run: |
+          npm init -y
+          npm install github-readme-stats
+
+      - name: Generate GitHub Stats
+        run: |
+          npx github-readme-stats --username SMOZHIVARMAN --output assets/github-stats.svg --theme github_dark --show-icons
 
       - name: Commit files
         run: |
