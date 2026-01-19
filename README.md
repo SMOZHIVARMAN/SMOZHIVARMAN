@@ -73,7 +73,7 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
 ---
 
 
-### **Coding Platforms**
+## 🔥 Coding Platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MOZHIVARMAN-OFFICIAL/)
 [![SkillRack](https://img.shields.io/badge/SkillRack-00BFA6?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.skillrack.com/profile/438758/a2e7a6baec7fbea98c74561ccb993a2c09b1d30d)
