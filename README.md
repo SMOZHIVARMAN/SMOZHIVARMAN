@@ -4,10 +4,8 @@
 ---
 
 ## 🌟 About Me  
-I'm a pre-final year Computer Science Engineering student with a keen interest in **CyberSecurity** and hands-on experience in **Full-Stack Development**.  
-Proficient in **Python (Libraries)** and developing skills as a **Cloud Engineer**.  
-Passion for continuous learning and innovation in emerging technologies.
-
+Aspiring **Software Developer** and **Cyber Security enthusiast** , currently a 3rd year engineering student, with a passion for
+**solving problems and building software solutions**.
 ---
 
 ## 🛠️ Skills & Tools  
@@ -51,9 +49,6 @@ Passion for continuous learning and innovation in emerging technologies.
 - 🕵️‍♂️ **Packet Sniffer** – *A simple yet powerful network packet sniffer built with Python and Scapy for real-time monitoring of IP packets, protocol types, and payload data. 
 This tool is useful for cybersecurity learning, traffic analysis, and ethical hacking practices.*
 
-- 🌦️ **Weather Data Analyzer** – *The objective of this project is to develop a Weather Data Analyzer that processes historical weather data, identifies patterns, and provides graphical insights through visualizations. This project will help users understand temperature variations, humidity levels, and rainfall patterns while also incorporating predictive modelling to forecast future temperature trends using Machine Learning (Linear Regression).*
-  
-- 🔍 **Vulnerability Scanner** – *Running a Nikto scan against a simple web server and summarizing the identified issues..... By using (Kali Linux)*  
 
 ---
 
@@ -69,13 +64,22 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
 
 <p align="center">
 
-  <!-- LeetCode Stats -->
+  
   <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN-OFFICIAL&theme=dark&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
 </p>
 
 
 
 ---
+
+
+### **Coding Platforms**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MOZHIVARMAN-OFFICIAL/)
+[![SkillRack](https://img.shields.io/badge/SkillRack-00BFA6?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.skillrack.com/profile/438758/a2e7a6baec7fbea98c74561ccb993a2c09b1d30d)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/MOZHIVARMAN_S)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mozhivarmanofficial)
+--
 
 ## 📬 Contact Me  
 
@@ -89,7 +93,7 @@ This tool is useful for cybersecurity learning, traffic analysis, and ethical ha
   <a href="https://www.instagram.com/iam_ur_skm_69/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:mozhivarmanofficial@example.com" target="_blank">
+  <a href="mailto:mozhivarmanofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
